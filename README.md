@@ -16,4 +16,4 @@ Libraries: numpy, pandas, matplotlib, seaborn
 The datset can be found here; https://www.kaggle.com/joniarroba/noshowappointments.
 
 # Conclusions
-Even though there are several factors that appear to have an impact on patients missing appointments, investigation research revealed that none of them had an overall significant effect on this; However we can coclude that, Women are more likely to visit the hospital than men as they made up a bigger percentage of the population that visits the hospital. Majority of the patients also show up on their appointment day
+Even though there are several factors that appear to have an impact on patients missing appointments, investigation research revealed that none of them had an overall significant effect on this; However we can coclude that, Women are more likely to visit the hospital than men as they made up a bigger percentage of the population that visits the hospital. Regardless of the above, its positive to state taht majority of the patients (90%) showed up for their appointment day 
